@@ -19,7 +19,7 @@ Welcome to the **AI-Powered Customer Query Assistant** — a full-stack web appl
 - [Deployment Links](#deployment-links)
 - [Demo Video](#demo-video)
 - [Future Improvements](#future-improvements)
-- [License](#license)
+- [Acknowledgments](#acknowledgments)
 
 ---
 
@@ -118,3 +118,28 @@ In your backend .env file:
 | MONGO_URI   | MongoDB connection URI               |
 | JWT_SECRET  | Secret key for JWT generation        |
 
+## 🌍 Deployment Links
+
+| Component          |  URL                                                                            |
+|-------------|----------------------------------------------------------------------------------------|
+| Frontend           | [Frontend Live Link](https://zitharaproject.netlify.app/)                       |
+| MONGO_URI          | [Backend Live Link](https://zithara-project-backend.onrender.com)               |
+| GitHub Repository  | [GitHub Link](https://github.com/nvvasu7804/ai-customer-query-assistant.git)    |
+
+## 🎬 Demo Video
+👉 Watch the full demo here: [Demo Video Link]()
+The video showcases user registration, login, chatbot interactions, and role-based access control.
+
+## 💡 Future Improvements
+> ✅ Replace hardcoded AI replies with OpenAI ChatGPT API
+> ✅ Add Admin dashboard to manage chatbot responses dynamically
+> ✅ Support for file/image upload during chat
+> ✅ Chat conversation history saved per user in MongoDB
+> ✅ Multi-language support
+> ✅ Feedback system for chatbot accuracy
+
+## 🤝 Acknowledgments
+> PROPEL5000 Program Team
+> MongoDB Atlas (for free-tier cloud DB)
+> Render & Netlify (for free hosting)
+> OpenAI (for GPT capabilities — simulated for now)
