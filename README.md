@@ -131,7 +131,6 @@ In your backend .env file:
 The video showcases user registration, login, chatbot interactions, and role-based access control.
 
 ## 💡 Future Improvements
-> ✅ Replace hardcoded AI replies with OpenAI ChatGPT API
 
 > ✅ Add Admin dashboard to manage chatbot responses dynamically
 
