@@ -107,3 +107,14 @@ cd client
 npm install
 npm run dev
 ```
+
+## 🔐 Environment Variables
+
+In your backend .env file:
+
+| Variable    |  Description                         |
+|-------------|--------------------------------------|
+| PORT        | Server port (default: 5000)          |
+| MONGO_URI   | MongoDB connection URI               |
+| JWT_SECRET  | Secret key for JWT generation        |
+
