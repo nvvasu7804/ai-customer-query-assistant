@@ -80,3 +80,30 @@ The chatbot is integrated into a secure web interface with **role-based access**
 ```bash
 git clone https://github.com/nvvasu7804/ai-customer-query-assistant.git
 cd ai-customer-query-assistant
+```
+
+### 2. Setup Backend
+```bash
+cd server
+npm install
+```
+Create a .env file:
+
+```bash
+PORT=5000
+MONGO_URI=your_mongodb_connection_uri
+JWT_SECRET=your_jwt_secret
+```
+
+Start the server:
+
+```bash
+node index.js
+```
+### 3. Setup Frontend
+
+```bash
+cd client
+npm install
+npm run dev
+```
