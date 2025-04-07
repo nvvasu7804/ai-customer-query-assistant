@@ -132,10 +132,15 @@ The video showcases user registration, login, chatbot interactions, and role-bas
 
 ## 💡 Future Improvements
 > ✅ Replace hardcoded AI replies with OpenAI ChatGPT API
+
 > ✅ Add Admin dashboard to manage chatbot responses dynamically
+
 > ✅ Support for file/image upload during chat
+
 > ✅ Chat conversation history saved per user in MongoDB
+
 > ✅ Multi-language support
+
 > ✅ Feedback system for chatbot accuracy
 
 ## 🤝 Acknowledgments
