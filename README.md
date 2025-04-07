@@ -14,7 +14,6 @@ Welcome to the **AI-Powered Customer Query Assistant** — a full-stack web appl
 - [Project Overview](#project-overview)
 - [Core Features](#core-features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Environment Variables](#environment-variables)
 - [Deployment Links](#deployment-links)
